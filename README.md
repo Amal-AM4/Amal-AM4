@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amal-am4&label=Profile%20views&color=0e75b6&style=flat" alt="amal-am4" /> </p>
 
-- 🔭 I’m currently working on **MiniKart (E-com)**
+- 🔭 I’m currently working on **Live Project**
 
 - 🌱 I’m currently learning **Express.js**
 
