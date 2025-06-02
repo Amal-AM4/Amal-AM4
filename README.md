@@ -1,35 +1,61 @@
-<h1 align="center">Hi 👋, I'm Amal</h1>
-<p align="center">A software trainer who loves building things and constantly learning new tech like Flutter to create Android apps.</p>
+# 👋 Hi, I'm Amal
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=amal-am4&label=Profile%20views&color=0e75b6&style=flat" alt="amal-am4" />
-</p>
+🚀 A curious **Software Trainer** & aspiring **App Developer**, passionate about building, teaching, and constantly learning in the world of tech.
 
-- 🔭 Currently working as a **Software Trainer at G-Tec**
+🎓 Currently working at **G-TEC**  
+📍 Based in Kerala, India
 
-- 📱 Learning **Flutter** to build Android apps
+---
 
-- 🌱 Passionate about learning and growing every day
+## 🧠 What I'm Up To
+- 👨‍🏫 Mentoring students in programming & web development
+- 🔨 Helping build **mini-projects** and guiding hands-on learning
+- 📱 **Learning Flutter & Dart** to develop Android apps
 
-- 👨‍💻 Explore my work: (https://amal-am4.github.io/Portfolio/)
+---
 
-- 📫 Reach me at **amaldotam@gmail.com**
+## 💼 Professional Experience
 
-- ⚡ Fun fact: **Every bug fixed teaches you something new! 🐞💡**
+### 👨‍🏫 G-TEC (May 2024 - Present)
+- Teaching Python, JavaScript, PHP, and more.
+- Mentoring students in real-time web development.
+- Encouraging project-based learning through live examples.
 
+### 🌐 E COMM NOW (Freelance, Part-Time)
+- Designed & developed **Shopify product pages**.
+- Built **ad creatives** (banners, posters, videos) for Facebook campaigns.
+- Worked on a **real estate-focused sales platform**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/amal-a-m-kl16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal-a-m-kl16" height="30" width="40" /></a>
+---
 
-<a href="https://www.youtube.com/c/@vectorperson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@vectorperson" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+**Programming Languages:**  
+Python • JavaScript • PHP • Go (Golang)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amal-am4&show_icons=true&locale=en&layout=compact" alt="amal-am4" /></p>
+**Markup & Style:**  
+HTML • CSS  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amal-am4&show_icons=true&locale=en" alt="amal-am4" /></p>
+**Frameworks & Libraries:**  
+Vue.js • Vuetify • Wails • Node.js • Express.js • Bootstrap • jQuery • Prisma  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amal-am4&" alt="amal-am4" /></p>
+**Databases:**  
+PostgreSQL • MySQL • SQLite  
+
+**Learning Now:**  
+Flutter • Dart  
+
+---
+
+## 🌐 Connect with Me
+
+📩 Email: [amaldotam@gmail.com](mailto:amaldotam@gmail.com)  
+🔗 Portfolio: [amal-am4.github.io/Portfolio](https://amal-am4.github.io/Portfolio/)  
+💼 LinkedIn: [linkedin.com/in/amal-a-m-kl16](https://linkedin.com/in/amal-a-m-kl16)  
+🐙 GitHub: [github.com/Amal-AM4](https://github.com/Amal-AM4)
+
+---
+
+## ⚡ Fun Fact
+
+> _“Every bug fixed teaches you something new!”_ 🐞💡  
