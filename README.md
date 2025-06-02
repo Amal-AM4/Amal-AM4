@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Amal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">A software trainer who loves building things and constantly learning new tech like Flutter to create Android apps.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amal-am4&label=Profile%20views&color=0e75b6&style=flat" alt="amal-am4" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=amal-am4&label=Profile%20views&color=0e75b6&style=flat" alt="amal-am4" />
+</p>
 
-- 🔭 I’m currently working on **Live Project**
+- 🔭 Currently working as a **Software Trainer at G-Tec**
 
-- 🌱 I’m currently learning **Express.js**
+- 📱 Learning **Flutter** to build Android apps
 
-- 👨‍💻 All of my projects are available at [https://amal-am4.github.io/Portfolio/](https://amal-am4.github.io/Portfolio/)
+- 🌱 Passionate about learning and growing every day
 
-- 📫 How to reach me **amaldotam@gmail.com**
+- 👨‍💻 Explore my work: (https://amal-am4.github.io/Portfolio/)
 
-- ⚡ Fun fact **Big money awaits in coding**
+- 📫 Reach me at **amaldotam@gmail.com**
+
+- ⚡ Fun fact: **Every bug fixed teaches you something new! 🐞💡**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
