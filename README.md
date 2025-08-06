@@ -49,10 +49,8 @@ Flutter • Dart
 
 ## 🌐 Connect with Me
 
-📩 Email: [amaldotam@gmail.com](mailto:amaldotam@gmail.com)  
-🔗 Portfolio: [amal-am4.github.io/Portfolio](https://amal-am4.github.io/Portfolio/)  
+🔗 Portfolio: [amal-am4.github.io/Portfolio](https://amal-am4.github.io/Portfolio-v2/)  
 💼 LinkedIn: [linkedin.com/in/amal-a-m-kl16](https://linkedin.com/in/amal-a-m-kl16)  
-🐙 GitHub: [github.com/Amal-AM4](https://github.com/Amal-AM4)
 
 ---
 
